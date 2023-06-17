@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smacksadmin/static/css/main.00f7f287.css",
+    "main.js": "/smacksadmin/static/js/main.fbfef2cc.js",
+    "static/js/787.763b03d8.chunk.js": "/smacksadmin/static/js/787.763b03d8.chunk.js",
+    "index.html": "/smacksadmin/index.html",
+    "main.00f7f287.css.map": "/smacksadmin/static/css/main.00f7f287.css.map",
+    "main.fbfef2cc.js.map": "/smacksadmin/static/js/main.fbfef2cc.js.map",
+    "787.763b03d8.chunk.js.map": "/smacksadmin/static/js/787.763b03d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f7f287.css",
+    "static/js/main.fbfef2cc.js"
+  ]
+}
