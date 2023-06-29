@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smacksadmin/static/css/main.164def0b.css",
-    "main.js": "/smacksadmin/static/js/main.89099e57.js",
+    "main.css": "/smacksadmin/static/css/main.adf7cf49.css",
+    "main.js": "/smacksadmin/static/js/main.11ca9ab2.js",
     "static/js/787.763b03d8.chunk.js": "/smacksadmin/static/js/787.763b03d8.chunk.js",
     "index.html": "/smacksadmin/index.html",
-    "main.164def0b.css.map": "/smacksadmin/static/css/main.164def0b.css.map",
-    "main.89099e57.js.map": "/smacksadmin/static/js/main.89099e57.js.map",
+    "main.adf7cf49.css.map": "/smacksadmin/static/css/main.adf7cf49.css.map",
+    "main.11ca9ab2.js.map": "/smacksadmin/static/js/main.11ca9ab2.js.map",
     "787.763b03d8.chunk.js.map": "/smacksadmin/static/js/787.763b03d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.164def0b.css",
-    "static/js/main.89099e57.js"
+    "static/css/main.adf7cf49.css",
+    "static/js/main.11ca9ab2.js"
   ]
 }
